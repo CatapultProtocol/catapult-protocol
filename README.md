@@ -5,13 +5,21 @@ Catapult Protocol is the first DeFi platform deployed on EgonCoin Blockchain, wi
 The First in several ways:
 
 Launchpad
+
 Token Lock
+
 DEX
+
 Bridge
+
 Stake
+
 Swap 
+
 Farm
+
 Airdrop 
+
 Token Distributor
 
 Let's Build & Grow on EGON Blockchain
